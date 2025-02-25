@@ -15,8 +15,8 @@
         }
         input {
             display: block;
-            width: 100%;
-            margin-block: 10px;
+            width: (100% - 10px);
+            margin: 10px auto;
             padding: 10px;
             border: none;
             background: #ccc;
