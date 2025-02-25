@@ -15,7 +15,7 @@
         }
         input {
             display: block;
-            width: 100%;
+            width: calc(100% - 20px);
             margin: 10px auto;
             padding: 10px;
             border: none;
