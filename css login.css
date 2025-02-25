@@ -15,19 +15,14 @@
         }
         input {
             display: block;
-            width: calc(100% - 20px);
-            margin: 10px auto;
+            width: 100%;
+            margin-block: 10px;
             padding: 10px;
             border: none;
             background: #ccc;
             border-radius: 5px;
-        }
-        input:focus {
-            border-color: #888;
-            background: #fff;
             outline: none;
         }
-
         button {
             width: 100%;
             padding: 10px;
